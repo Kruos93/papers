@@ -12,5 +12,6 @@ they're always necessary.
 Karen known as karenpina
 Kirsty known as Katy
 
-
+# Simulation
+Mami did the simulation because he's a nerd
 
